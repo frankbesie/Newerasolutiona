@@ -1,2 +1,5 @@
-GRADLE: Built automation system thatuses a groovy-based DLS
-MAVEN: Software project management system that is primarily used for Jave
+GRADLE: Built automation system thatuses a groovy-based DLS.
+MAVEN: Software project management system that is primarily used for Jave.
+
+GRADLE: Doesn't use an XML file for declaring the project configuration.
+MAVEN: Uses XML file for declaring the project, its dependencies, the build order, and it required plugin.
