@@ -3,3 +3,6 @@ MAVEN: Software project management system that is primarily used for Jave.
 
 GRADLE: Doesn't use an XML file for declaring the project configuration.
 MAVEN: Uses XML file for declaring the project, its dependencies, the build order, and it required plugin.
+
+GRADLE: Based on a graph of task dependencies that do the work.
+MAVEN: Based on a phases of the fixed and linear model.
